@@ -5,8 +5,7 @@ An electronic chess board, that you can play (and lose) against
 ## Features
 
 * 64 Hall effect sensors to detect the position of the chess pieces
-* Magnets embedded into the base of each chess piece
-* LEDs underneath the squares to indicate moves
+* LEDs matrix to indicate moves
 * Arduino Mega 2560 to control the electronics
 * ESP32 for Wi-Fi communication
 * Multiplexing to reduce the amount of circuitry needed
@@ -15,11 +14,9 @@ An electronic chess board, that you can play (and lose) against
 
 ## How It Works
 
-The board uses Hall effect sensors underneath each square to detect whether a chess piece is present. Each chess piece will have a magnet embedded into its base, allowing the sensor underneath it to detect the piece.
+The board uses Hall effect sensors underneath each square to detect whether a chess piece is present. Each chess piece will have a magnet embedded into its base, allowing the sensor underneath it to detect that a piece is present. Then, the software will take this, and represent it as a 64 bit string, with each bit signifying if there is a piece on the corresponding square. 
 
-The information from the sensors is used to determine the current position of all the pieces on the board.
-
-The chess engine will then determine the best move for the current position. The move will be sent to the ESP32 over Wi-Fi, and then sent to the Arduino Mega 2560.
+By backtracking through prior positions, all the way to the starting position, the ESP32 will be able to determine where each piece is. Then over Wifi, it will call the Stockfish API, get the best move, convert it back to the 64 bit string, and send it back to the Arduino. 
 
 The Arduino will then control the LEDs underneath the board. The two squares involved in the move will light up, showing the player which piece to move and where to move it.
 
