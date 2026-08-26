@@ -6,11 +6,8 @@ An electronic chess board, that you can play (and lose) against
 
 * 64 Hall effect sensors to detect the position of the chess pieces
 * LEDs matrix to indicate moves
-* Arduino Mega 2560 to control the electronics
-* ESP32 for Wi-Fi communication
-* Multiplexing to reduce the amount of circuitry needed
+* 0.96 inch OLED screen
 * 3D printed board housing
-* Online chess engine integration
 
 ## How It Works
 
@@ -32,8 +29,8 @@ The main electronics are:
 * LEDs
 * S8550 PNP transistors
 * Resistors
-* Multiplexers
 * Magnets
+* Wires
 
 ## CAD Model
 
@@ -41,9 +38,6 @@ The board housing will be 3D printed using PLA+. I chose PLA+ because it is cost
 
 The chess pieces will also be designed digitally and 3D printed
 
-
 ## Cost
 
-One of my goals is to keep the cost of the board relatively low considering that it is in the research and development phase.
-
-Similar electronic chess boards can cost hundreds of euros, so I want to create my own board using individually sourced components while keeping the total cost below €350.
+One of my goals is to keep the cost of the board relatively low considering that it is in the research and development phase. Similar electronic chess boards can cost hundreds of euros, so I want to create my own board using individually sourced components while keeping the total cost below €350.
