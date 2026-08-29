@@ -34,7 +34,7 @@ The main electronics are:
 
 ## CAD Model
 
-The board housing will be 3D printed using PLA+. I chose PLA+ because it is cost efficient and is available in many different colors. The board will use a light grey and cold white colour scheme. The housing is designed so that the electronics can be accessed and serviced if necessary.
+The board housing will be 3D printed using PLA+. I chose PLA+ because it is cost efficient and is available in many different colors. The board will use a light grey and cold white colour scheme. 
 
 The squares on the chess board have a hole in which the LED can be slotted into, along with a separate inset, wherein a extremely weak magnet can be placed, so that the chess pieces do not repel or attract each other, and instead they attract to the magnets embedded in the base of each square. This also has the added upside that you can flip the board upside down (if that is more your style ;)). See image below:
 
@@ -47,4 +47,5 @@ The chess pieces are also designed digitally and 3D printed, with some inspirati
 
 <img width="808" height="553" alt="image" src="https://github.com/user-attachments/assets/e18d7ed4-d06a-4e07-84e4-1590cef6c61d" />
 
+The different parts will be attached together using hopes, dreams, and a lot of hot glue.
 
