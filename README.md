@@ -47,5 +47,5 @@ The chess pieces are also designed digitally and 3D printed, with some inspirati
 
 <img width="808" height="553" alt="image" src="https://github.com/user-attachments/assets/e18d7ed4-d06a-4e07-84e4-1590cef6c61d" />
 
-The different parts will be attached together using hopes, dreams, and a lot of hot glue.
+The different parts will be attached together using hopes, dreams, and a lot of super glue.
 
