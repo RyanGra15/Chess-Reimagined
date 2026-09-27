@@ -32,9 +32,25 @@ The main electronics are:
 * Magnets
 * Wires
 
+The PCB is shown below, along with the schematic and routing diagrams: 
+
+<img width="662" height="383" alt="image" src="https://github.com/user-attachments/assets/f89bac16-d306-4e5d-9636-8d2e300f6f9f" />
+
+<img width="526" height="376" alt="image" src="https://github.com/user-attachments/assets/750485f5-ff66-4fbd-bd50-de7b92064757" />
+
+<img width="505" height="409" alt="image" src="https://github.com/user-attachments/assets/9b55dfaa-26dc-465b-8f19-492d95cee40f" />
+
+<img width="1722" height="929" alt="image" src="https://github.com/user-attachments/assets/54b9a475-20db-4f86-b96b-66378b2138a6" />
+
+<img width="1722" height="929" alt="image" src="https://github.com/user-attachments/assets/c8c6eba3-7f85-464c-85a7-5b8aef4926a3" />
+
 ## CAD Model
 
 The board housing will be 3D printed using PLA+. I chose PLA+ because it is cost efficient and is available in many different colors. The board will use a light grey and cold white colour scheme. 
+
+<img width="503" height="287" alt="image" src="https://github.com/user-attachments/assets/13efc2b9-4b50-4279-a5d6-64b404f4a275" />
+
+<img width="380" height="250" alt="image" src="https://github.com/user-attachments/assets/23b18cee-8387-4423-8534-dcf4dbe28f51" />
 
 The squares on the chess board have a hole in which the LED can be slotted into, along with a separate inset, wherein a extremely weak magnet can be placed, so that the chess pieces do not repel or attract each other, and instead they attract to the magnets embedded in the base of each square. This also has the added upside that you can flip the board upside down (if that is more your style ;)). See image below:
 
