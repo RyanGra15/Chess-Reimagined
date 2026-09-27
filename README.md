@@ -1,4 +1,4 @@
-# Chess-Reimagined
+<img width="676" height="434" alt="image" src="https://github.com/user-attachments/assets/ce4a49bc-068e-4892-a8ad-f261f31388be" /># Chess-Reimagined
 
 An electronic chess board, that you can play (and lose) against 
 
@@ -34,9 +34,11 @@ The main electronics are:
 
 The PCB is shown below, along with the schematic and routing diagrams: 
 
-<img width="662" height="383" alt="image" src="https://github.com/user-attachments/assets/f89bac16-d306-4e5d-9636-8d2e300f6f9f" />
+<img width="676" height="434" alt="image" src="https://github.com/user-attachments/assets/fe0b5021-9738-4b2a-b424-3be16c41da35" />
 
-<img width="526" height="376" alt="image" src="https://github.com/user-attachments/assets/750485f5-ff66-4fbd-bd50-de7b92064757" />
+<img width="677" height="439" alt="image" src="https://github.com/user-attachments/assets/c4f5af50-81fc-4bed-83ac-de1182cd680f" />
+
+<img width="336" height="355" alt="image" src="https://github.com/user-attachments/assets/b924910c-7d02-46bb-be1e-b315807f4a32" />
 
 <img width="505" height="409" alt="image" src="https://github.com/user-attachments/assets/9b55dfaa-26dc-465b-8f19-492d95cee40f" />
 
