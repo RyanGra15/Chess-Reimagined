@@ -1,4 +1,4 @@
-<img width="676" height="434" alt="image" src="https://github.com/user-attachments/assets/ce4a49bc-068e-4892-a8ad-f261f31388be" /># Chess-Reimagined
+# Chess-Reimagined
 
 An electronic chess board, that you can play (and lose) against 
 
