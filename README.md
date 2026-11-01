@@ -34,9 +34,6 @@ The main electronics are:
 
 The PCB is shown below, along with the schematic and routing diagrams: 
 
-<img width="676" height="434" alt="image" src="https://github.com/user-attachments/assets/fe0b5021-9738-4b2a-b424-3be16c41da35" />
-
-<img width="677" height="439" alt="image" src="https://github.com/user-attachments/assets/c4f5af50-81fc-4bed-83ac-de1182cd680f" />
 
 <img width="336" height="355" alt="image" src="https://github.com/user-attachments/assets/b924910c-7d02-46bb-be1e-b315807f4a32" />
 
